@@ -1,0 +1,31 @@
+SETUP SCENARIO:
+
+To recreate setup scenario, place bufferbloat.cc in scratch folder.
+Place setup.py in main folder
+
+Navigate to main ns-3-dev folder and run the following command in terminal.
+$ python3 setup.py
+
+A Stats folder for setup scenarios will also be generated in main NS3 Folder
+
+
+Solution (temporary) SCENARIO:
+
+To recreate setup scenario, place solution.cc in scratch folder.
+Place solution.py in main folder
+
+Navigate to main ns-3-dev folder and run the following command in terminal.
+$ python3 solution.py
+
+A Stats folder for setup scenarios will also be generated in main NS3 Folder
+
+UPDATED--------PART---------------------------:
+
+Solution (Final) SCENARIO + New Algorithm:
+
+Place the files "lte-rlc-um.cc" & "lte-rlc-um.h" in the following path: "ns-3-dev/src/lte/model"
+
+Place the file dynamicRLCqueue.cc in scratch folder and script parse.py in main ns-3-dev folder
+
+Run Script to generate Graphs and stats
+Stat files are StaticRLC.txt and DynamicRLC.txt (Not generated in Stats Folder, but in main ns-3-dev folder)
