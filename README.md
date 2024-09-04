@@ -1,4 +1,4 @@
-# Bufferbloat Problem in 5G NR
+# Bufferbloat Problem in 5G NR using NS-3 Simulator built on C++
 
 ## Project Overview
 
