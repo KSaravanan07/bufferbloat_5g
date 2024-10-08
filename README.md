@@ -6,10 +6,7 @@ This project focuses on addressing the Bufferbloat problem in 5G networks by mod
 
 ## Team Details
 
-- **Neel Yogendra Kansagra** (CS22MTECH11002)
-- **Nikhil Kori** (CS22MTECH11014)
-- **K Saravanan** (CS22MTECH12007)
-- **TA**: Harinder Kaur (CS21RESCH11008)
+- **K Saravanan** (CS22MTECH12007) AND OTHERS
 
 ## Problem Statement
 
